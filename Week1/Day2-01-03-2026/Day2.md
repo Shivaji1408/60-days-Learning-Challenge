@@ -9,6 +9,6 @@ Today i Learned about
 ---
 
 and Revise Some Linked List Questions on LeetCode
-1.
-2.
-3.
+1. Merge Two Sorted Lists (Linked List)
+2. Remove Duplicates From Sorted List (Linked List)
+3. Partitioning Into Minimum Number Of Deci-Binary Numbers (Daily Question LeetCode)
