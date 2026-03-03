@@ -13,4 +13,4 @@ To practice about these topics i solved these question on LeetCode
 3. Maximum Depth of Binary Tree
 4. Binary Tree PreOrder Traversal
 5. Diameter of Binary Tree
-6. Find Kth Bit in Nth Binary String
+6. Find Kth Bit in Nth Binary String (LeetCode Daily Question)
