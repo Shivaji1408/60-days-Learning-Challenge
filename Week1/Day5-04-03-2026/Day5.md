@@ -5,4 +5,4 @@ so i revise my MERN Concepts and Learn some of SQL Queries to perform operations
 i also try to make and manage handwritten notes with it.
 
 i also solved Some Questions on leetcode
-1. Special Positions in a Binary Matrix
+1. Special Positions in a Binary Matrix (LeetCode Daily Question)
