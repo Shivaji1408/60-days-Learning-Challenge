@@ -8,4 +8,4 @@
 - [x] Day 04 - 03 Mar 2026
 - [x] Day 05 - 04 Mar 2026
 - [x] Day 06 - 05 Mar 2026
-- [ ] Day 07 - 06 Mar 2026
+- [x] Day 07 - 06 Mar 2026
