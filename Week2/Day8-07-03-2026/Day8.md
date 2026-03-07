@@ -6,5 +6,7 @@ Today i have my exam of Full Stack Using NodeJs so i revise its fundamental Conc
 - how to handle different routes
 - how to give responses to the user based on its requests
 
+and also worked on my college project and today we build the Attendance record system.
+
 Solved Leetcode Questions
 1. Minimum Number of Flips to Make the Binary String Alternating (LeetCode Daily Question)
